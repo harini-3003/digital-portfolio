@@ -1,0 +1,173 @@
+<HTML>
+
+<HEAD>
+
+       <TITLE>Resume</TITLE>
+
+<STYLE>
+
+   TABLE
+
+      {
+
+        BACKGROUND-COLOR:light pink;
+
+      }
+
+     
+
+ </STYLE>      
+
+</HEAD>
+
+<BODY>
+
+<H1><CENTER>Resume </CENTER></H1>
+
+    <TABLE BORDER="3" ALIGN = center >
+
+<FONT FACE="VERDANA">
+
+      <TR>
+
+<TD COLSPAN ="2" ><B>NAME</B></TD>
+
+<TD COLSPAN ="2" >Harini G</TD>
+
+    </TR>
+
+    <TR>
+
+<TD COLSPAN ="2" ><B>RELIGION</B></TD>
+
+<TD COLSPAN ="2" >Hindu</TD>
+
+   </TR>
+
+   <TR>
+
+<TD COLSPAN ="2" ><B>COMMUNITY</B></TD>
+
+<TD COLSPAN ="2" >MBC</TD>
+
+   </TR>
+
+    <TR><TD COLSPAN ="2" ROWSPAN ="4"><B>ADDRESS</B></TD></TR>
+
+    <TR><TD COLSPAN ="2" >Kanjampalayam road <BR>Tirupur</TD></TR>
+
+    <TR><TD COLSPAN ="2" >J.P Nagar,1<SUP>th</SUP>street, Tirupur</TD></TR>
+
+   <TR><TD COLSPAN ="2" > Pichampalayam</TD></TR>
+
+   <TR>
+
+<TD COLSPAN ="2" ><B>TOWN</B></TD>
+
+<TD COLSPAN ="2" >TIRUPUR</TD>
+
+   </TR>
+
+   <TR>
+
+<TD COLSPAN ="2" ><B>PIN-CODE</B></TD>
+
+<TD COLSPAN ="2" >641-607</TD>
+
+  </TR>
+
+   <TR>
+
+<TD COLSPAN ="2" ><B>DISTRICT</B></TD>
+
+<TD COLSPAN ="2" >TIRUPUR</TD>
+
+   </TR>
+
+     <TR>
+
+<TD COLSPAN ="2" ><B>STATE</B></TD>
+
+<TD COLSPAN ="2" >TAMILNADU</TD>
+
+   </TR>
+
+  <TR>
+
+<TD COLSPAN ="2" ROWSPAN ="4"><B>CONTACT</B></TD></TR>
+
+             <TR>
+
+<TD >OFFICE</TD>
+
+<TD >6381536313</TD>
+
+  </TR>
+
+  <TR>
+
+<TD>MOBILE</TD>
+
+<TD>9344295616</TD>
+
+  </TR>
+
+  <TR>
+
+<TD COLSPAN="4"><CENTER><B>EDUCATIONAL QUALIFICATIONS</B><CENTER></TD>
+
+  </TR>
+
+  <TR>
+
+<TD><B>DEGREE / CLASS</B></TD>
+
+<TD><B>UNIVERSITY/ INSTITUTE</B></TD>
+
+<TD><B>YEAR OF PASSING</B></TD>
+
+<TD><B>MARK / GRADE</B></TD>
+
+  </TR>
+
+  <TR>
+
+<TD>10<SUP>th</SUP></TD>
+
+<TD>Jaivabai Girls.Hr.Sec.School</TD>
+
+<TD>2018-2019</TD>
+
+<TD>321</TD>
+
+  </TR>
+
+  <TR>
+
+<TD>12<SUP>th</SUP></TD>
+
+<TD>Jaivabai Girls.Hr.Sec.School</TD>
+
+<TD>2020-2021</TD>
+
+<TD>466</TD>
+
+  </TR>
+
+  <TR>
+
+<TD>BCA</TD>
+
+<TD>St.Joseph's College for Women</TD>
+
+<TD>2021-2024</TD>
+
+<TD>80.5%</TD>
+
+  </TR>
+
+</TABLE>
+
+</BODY>
+
+</HTML>
