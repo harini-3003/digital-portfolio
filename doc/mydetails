@@ -1,0 +1,68 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Web Development</title>
+    <style>
+        body bg color {
+            font-family: Arial, sans-serif;
+            background-color: #f6edf4;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ac0647 ;
+            color: #fff;
+            padding: 20px 0;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-img {
+            border-radius: 50%;
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+        }
+        .skills {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Harini</h1>
+        <p>Web Developer</p>
+    </header>
+    <div class="container">
+        <img class="profile-img" src="https://pbs.twimg.com/media/FYKQYHwaIAArFBP.jpg">
+        <h2>About Me</h2>
+       
+      <ul>
+           Hi i'm Harini<br>
+          I am a third-year college student with a passion for web development.<br>
+           I love Mt freiends & family.<br>
+           My goal is to make the web a better place.
+</ul>
+   
+       
+        <h2>Skills</h2>
+        <p class="skills">HTML, CSS, JavaScript, React, Node.js, SQL, Git</p>
+        <h2>Projects</h2>
+        <p>
+            <strong>Project 1:</strong> Personal Portfolio Website<br>
+            <strong>Project 2:</strong> E-commerce Website<br>
+            <strong>Project 3:</strong> Blog Website
+        </p>
+ <A HREF="biodata.html" TARGET=_"BLANK"><FONT COLOR="BLUE">BIODATA</FONT></A>
+    </div>
+
+</body>
+</html>
